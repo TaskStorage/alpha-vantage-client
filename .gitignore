@@ -16,4 +16,4 @@ target
 out
 
 application.properties
-test
+test.java
